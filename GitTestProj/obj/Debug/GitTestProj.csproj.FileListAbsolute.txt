@@ -1,0 +1,9 @@
+H:\CodyWahl\Sandboxes\GitTestProj\GitTestProj\GitTestProj\bin\Debug\GitTestProj.exe.config
+H:\CodyWahl\Sandboxes\GitTestProj\GitTestProj\GitTestProj\bin\Debug\GitTestProj.exe
+H:\CodyWahl\Sandboxes\GitTestProj\GitTestProj\GitTestProj\bin\Debug\GitTestProj.pdb
+H:\CodyWahl\Sandboxes\GitTestProj\GitTestProj\GitTestProj\obj\Debug\GitTestProj.csprojResolveAssemblyReference.cache
+H:\CodyWahl\Sandboxes\GitTestProj\GitTestProj\GitTestProj\obj\Debug\GitTestProj.Form1.resources
+H:\CodyWahl\Sandboxes\GitTestProj\GitTestProj\GitTestProj\obj\Debug\GitTestProj.Properties.Resources.resources
+H:\CodyWahl\Sandboxes\GitTestProj\GitTestProj\GitTestProj\obj\Debug\GitTestProj.csproj.GenerateResource.Cache
+H:\CodyWahl\Sandboxes\GitTestProj\GitTestProj\GitTestProj\obj\Debug\GitTestProj.exe
+H:\CodyWahl\Sandboxes\GitTestProj\GitTestProj\GitTestProj\obj\Debug\GitTestProj.pdb
